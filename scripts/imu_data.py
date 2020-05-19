@@ -34,7 +34,7 @@ class bcolors:
     UNDERLINE = '\033[4m'
 
 
-host = '192.168.1.105'
+host = '192.168.1.109'
 port = 5555
 
 s = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)

@@ -5,7 +5,7 @@ import socket
 import traceback
 
 # host = '192.168.43.140'
-host = '192.168.43.164'
+host = '192.168.1.109'
 port = 5555
 
 s = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
